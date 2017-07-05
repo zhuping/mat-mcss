@@ -1,0 +1,26 @@
+{
+  "name": "mat-mcss",
+  "version": "0.0.1",
+  "description": "mcss plugin for mat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuping/mat-mcss.git"
+  },
+  "keywords": [
+    "mat",
+    "mcss"
+  ],
+  "author": "zhuping.zp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuping/mat-mcss/issues"
+  },
+  "homepage": "https://github.com/zhuping/mat-mcss#readme",
+  "dependencies": {
+    "mcss": "^0.5.1"
+  }
+}
